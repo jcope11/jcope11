@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with ... data structures
 - 💬 Ask me about ... my future
 - 📫 How to reach me: ... twitter@YliiCode
-- ⚡ Fun fact: ... I'm 1/2 Japanese
+- ⚡ Fun fact: ... I'm 1/2 Japanese, 1/4 Python, and 1/4 Swift
