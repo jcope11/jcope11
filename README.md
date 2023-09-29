@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 - 🔭 I’m currently working on ... a flascard app for iOS
 - 🌱 I’m currently learning ... bash shell scripting, python, and swift
